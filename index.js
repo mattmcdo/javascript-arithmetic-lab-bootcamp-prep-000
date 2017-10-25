@@ -1,7 +1,7 @@
 var a = 10.12
 var b = 5.11
 var c = 2.222
-var d = 0
+var d = 10
 function add(a,b){
   return(a+b)
 }
@@ -20,3 +20,5 @@ function inc(a){
 function dec(a){
   return (a-1)
 }
+function makeInt(a,d)
+  return (a)
