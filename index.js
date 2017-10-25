@@ -1,5 +1,5 @@
 function add(a,b){
-  return a + b 
+  return a + b
 }
 function subtract(a,b){
   return a - b
@@ -16,3 +16,6 @@ function inc(a){
 function dec(a){
   return a -= 1
 }
+function makeInt(a){
+  parseInt(a)
+} 
