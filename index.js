@@ -28,6 +28,3 @@ function makeInt(a){
 function preserveDecimal(a){
   return (a)
 }
-function makeInt(a, b){
-  return (a+b)
-}
