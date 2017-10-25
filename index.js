@@ -22,5 +22,5 @@ function makeInt(a){
   return ('a')
 }
 function makeInt(0){
-  return (a)
+  return (0)
 }
