@@ -1,6 +1,7 @@
 var a = 10.12
 var b = 5.11
 var c = 2.222
+var d = 0
 function add(a,b){
   return(a+b)
 }
@@ -20,11 +21,8 @@ function dec(a){
   return (a-1)
 }
 function makeInt(a){
-  return(a)
+  return (a)
 }
-function preserveDecimal(a){
-  return ('a')
-}
-function preserveDecimal(c){
-  return ('c')
+function makeInt(d*b){
+  return (0)
 }
