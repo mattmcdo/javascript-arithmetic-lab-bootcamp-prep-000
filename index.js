@@ -22,6 +22,6 @@ function dec(a){
 function makeInt(a){
   return(a)
 }
-function(a){
+function makeInt(a){
   return(0)
 }
