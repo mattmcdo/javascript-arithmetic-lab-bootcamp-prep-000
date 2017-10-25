@@ -1,4 +1,4 @@
-var a = 10
+var a = 10.11
 var b = 5
 function add(a,b){
   return(a+b)
@@ -17,4 +17,7 @@ function inc(a){
 }
 function dec(a){
   return (a-1)
+}
+function parseInt(a){
+  return (a)
 }
