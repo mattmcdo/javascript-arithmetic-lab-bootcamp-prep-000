@@ -22,5 +22,7 @@ function dec(a){
 function makeInt(a){
   return(a)
 }
-function preserveDecimal(a)
+function preserveDecimal(a){
   return ('a')
+}
+  
