@@ -28,3 +28,6 @@ function makeInt(a){
 function preserveDecimal(a){
   return (a)
 }
+function makeInt('abc'){
+  return ('abc')
+}
