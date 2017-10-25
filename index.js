@@ -1,4 +1,4 @@
-var a = 10
+var a = 10.12
 var b = 5.11
 function add(a,b){
   return(a+b)
