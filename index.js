@@ -1,5 +1,5 @@
 var a = 10
-var b = 5
+var b = 5.11
 function add(a,b){
   return(a+b)
 }
@@ -29,4 +29,7 @@ function preserveDecimal(a){
 }
 function makeInt(a, b){
   return (a+b)
+}
+function preserveDecimal(b){
+  return (b)
 }
