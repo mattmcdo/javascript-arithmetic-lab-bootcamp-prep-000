@@ -23,3 +23,6 @@ function dec(a){
 function makeInt(a,d){
   return (a)
 }
+function makeInt(a,d){
+  return (0)
+}
