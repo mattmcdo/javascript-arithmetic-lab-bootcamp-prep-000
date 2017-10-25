@@ -3,4 +3,3 @@ var b = 5
 function add(a,b){
   number(a+b)
 }
-  
