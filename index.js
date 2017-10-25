@@ -24,5 +24,6 @@ function makeInt(a){
 function makeInt(a){
   return (0)
 }
-function preserveDecimal(a)
-  return (a)
+function preserveDecimal(a){
+  return(a)
+}
