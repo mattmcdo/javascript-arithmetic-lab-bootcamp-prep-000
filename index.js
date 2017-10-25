@@ -21,7 +21,6 @@ function dec(a){
 function makeInt(a, toString()){
   return (a)
 }
-
 function makeInt(a){
   return ('a')
 }
